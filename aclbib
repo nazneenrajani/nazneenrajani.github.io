@@ -1,0 +1,8 @@
+@inproceedings{nrajani:acl15,
+title={Stacked Ensembles of Information Extractors for Knowledge-Base Population},
+author={Nazneen Fatema Rajani and Vidhoon Vishwanathan and Yinon Bentor and Raymond J. Mooney},
+booktitle={Proceedings of the 53rd Annual Meeting of the Association for Computational Linguistics (ACL15)},
+month={July},
+address={Beijing, China},
+year={2015}
+}
