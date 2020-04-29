@@ -1,6 +1,0 @@
-http://yann.lecun.com/exdb/mnist/t10k-images-idx3-ubyte.gz
-http://yann.lecun.com/exdb/mnist/train-images-idx3-ubyte.gz
-http://www.csie.ntu.edu.tw/~cjlin/libsvmtools/datasets/multiclass/poker.t.bz2
-http://www.csie.ntu.edu.tw/~cjlin/libsvmtools/datasets/binary/cod-rna.t
-http://www.csie.ntu.edu.tw/~cjlin/libsvmtools/datasets/regression/cadata
-http://www.csie.ntu.edu.tw/~cjlin/libsvmtools/datasets/binary/covtype.libsvm.binary.bz2
